@@ -6,8 +6,8 @@
 }
 
 :root {
-    --clr-main: #F79F79;
-    --clr-main-light: #F7D08A;
+    --clr-main: #520404;
+    --clr-main-light: #721206;
 }
 
 .container {
@@ -91,7 +91,7 @@
 
 .producto .ver-mas:hover {
     background-color: black;
-    color: white;
+    color: rgb(53, 53, 53);
 }
 
 .producto-detalle {

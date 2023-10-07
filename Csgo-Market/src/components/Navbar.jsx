@@ -11,8 +11,8 @@ const Navbar = () => {
             <li><Link className="menu-link" to="/productos">Productos</Link></li>
             <li><Link className="menu-link" to="/productos/rifles">Rifles</Link></li>
             <li><Link className="menu-link" to="/productos/subfusil">Subfusil</Link></li>
-            <li><Link className="menu-link" to="/productos/pistolas">Remeras</Link></li>
-            <li><Link className="menu-link" to="/productos/varios">varios</Link></li>
+            <li><Link className="menu-link" to="/productos/pistolas">Pistolas</Link></li>
+            <li><Link className="menu-link" to="/productos/varios"></Link></li>
             <li><Link className="menu-link" to="/nosotros">Nosotros</Link></li>
             <li><Link className="menu-link" to="/contacto">Contacto</Link></li>
             <li><CartWidget /></li>
